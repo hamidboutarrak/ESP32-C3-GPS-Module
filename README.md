@@ -94,15 +94,11 @@ Example baud rate: **9600** or **38400** (check module configuration)
 - Ensure proper RF grounding for GPS module
 - Keep antenna traces as short as possible
 
-## 📦 Bill of Materials
-
-A complete bill of materials with detailed part numbers, suppliers, and component specifications is available in the `Hardware/BOM/` folder.
-
 ### Component Libraries
 
 All Altium component libraries and footprints used in this project are available for download:
 
-**📁 [Download Component Libraries from Google Drive]((https://drive.google.com/drive/folders/1tCVxWGTHql46LnUQWvKf2rPeb6_H4dGO?usp=sharing))**
+**📁 [Download Component Libraries from Google Drive]([https://drive.google.com/drive/folders/1tCVxWGTHql46LnUQWvKf2rPeb6_H4dGO?usp=sharing])**
 
 This includes:
 - Schematic symbols
