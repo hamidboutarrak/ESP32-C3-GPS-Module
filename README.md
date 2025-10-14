@@ -3,7 +3,7 @@
 An open-source hardware project featuring an ESP32-C3 microcontroller integrated with a NEO-M9N GPS module, designed for location-based IoT applications.
 
 ![Project Status](https://github.com/hamidboutarrak/ESP32-C3-GPS-Module/blob/main/Images/Screenshot%202025-10-06%20000836.png?raw=true)
-![Hardware](https://img.shields.io/badge/hardware-ESP32--C3-blue.svg)
+![Hardware]([https://img.shields.io/badge/hardware-ESP32--C3-blue.svg](https://github.com/hamidboutarrak/ESP32-C3-GPS-Module/blob/main/Images/Screenshot%202025-10-06%20000853.png?raw=true))
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📋 Overview
