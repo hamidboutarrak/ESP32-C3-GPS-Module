@@ -98,13 +98,16 @@ Example baud rate: **9600** or **38400** (check module configuration)
 
 All Altium component libraries and footprints used in this project are available for download:
 
-**📁 [Download Component Libraries from Google Drive]([https://drive.google.com/drive/folders/1tCVxWGTHql46LnUQWvKf2rPeb6_H4dGO?usp=sharing])**
-
+📁 Download Component Libraries from Google Drive 
+  <a href="https://drive.google.com/drive/folders/1tCVxWGTHql46LnUQWvKf2rPeb6_H4dGO?usp=sharing" 
+     target="_blank" 
+     rel="noopener noreferrer">
+      (HERE)
+  </a>
 This includes:
 - Schematic symbols
 - PCB footprints
 - 3D models
-- Component parameters and datasheets references
 
 *Note: Please download these files to ensure you have all the necessary components when opening the Altium project.*
 
