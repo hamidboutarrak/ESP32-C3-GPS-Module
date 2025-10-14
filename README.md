@@ -58,22 +58,6 @@ This project provides a complete hardware design for an ESP32-C3 based GPS modul
 - **Operating Voltage**: 3.3V (regulated)
 - **USB Interface**: Micro USB-B
 
-## 📁 Repository Structure
-
-```
-├── Source/
-│   ├── Altium/              # Altium Designer project files
-│      ├── *.PrjPcb        # Altium project
-│      ├── *.SchDoc        # Schematic documents
-│      ├── *.PcbDoc        # PCB documents
-│      └── *.LibPkg        # Component libraries
-├── Documentation/
-│   ├── Assembly_Guide.md    # Assembly instructions
-│   └── User_Manual.md       # User guide
-├── Images/                  # Photos and renders
-└── README.md
-```
-
 ## 🚀 Getting Started
 
 ### Hardware Setup
