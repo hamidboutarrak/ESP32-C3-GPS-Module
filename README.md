@@ -7,7 +7,7 @@ An open-source hardware project featuring an ESP32-C3 microcontroller integrated
   <img src="https://github.com/hamidboutarrak/ESP32-C3-GPS-Module/blob/main/Images/Screenshot%202025-10-06%20000853.png?raw=true" width="45%">
 </p>
 <p align="center">
-  <img src="[URL_DE_VOTRE_IMAGE](https://github.com/hamidboutarrak/ESP32-C3-GPS-Module/blob/main/Images/2D-SCHEMA.png?raw=true)" width="100%">
+  <img src="https://github.com/hamidboutarrak/ESP32-C3-GPS-Module/blob/main/Images/2D-SCHEMA.png?raw=true" width="100%">
 </p>
 
 ## 📋 Overview
